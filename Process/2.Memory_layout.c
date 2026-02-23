@@ -4,6 +4,8 @@
 
 int global_Var = 10;
 
+
+
 int main()
 {
     int local_var = 20;
