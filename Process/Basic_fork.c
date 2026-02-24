@@ -6,6 +6,10 @@ int global_var = 100;
 int main()
 {
 
+
+
+    
+
     int local_var = 20;
 
     printf("Process ID: %d\n", getpid());
